@@ -102,7 +102,7 @@ nav ul{
     width: 1140px;
     height: 775px;
     margin-left: 184px;
-    margin-top: 130px;
+    margin-top: 100px;
     text-align: center;
     align-items: center;
     line-height: 3;
@@ -126,5 +126,50 @@ nav ul{
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
-    padding: 32px;
+    padding: 30px;
+}
+.target{
+    width: 1140px;
+    height: 775px;
+    margin-left: 184px;
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+    line-height: 1.5;
+}
+.target h1{
+    line-height:4 ;
+}
+.target p{
+    font-size: 13px;
+    padding:0px 80px;
+}
+.targetbox{
+    width: 1140px;
+    height: 299px;
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    margin-left: 54px;
+}
+.targetbox1,.targetbox2,.targetbox3{
+    width: 294px;
+    height: 219px;
+    padding: 20px;
+    text-align: left; 
+    align-items: center;
+    margin: 0px 10px;
+    border-radius: 16px;
+}
+.targeta{
+    line-height: 4;
+}
+.targetbox1{
+    background-color: rosybrown;
+}
+.targetbox2{
+    background-color: aquamarine;
+}
+.targetbox3{
+    background-color: darkseagreen;
 }
