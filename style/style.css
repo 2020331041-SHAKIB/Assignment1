@@ -45,12 +45,14 @@ nav ul{
     margin-top: 30px;
 }
 .btn2{
-    margin-top: 14px;
+    display: inline-block;
+    margin-top: 24px;
     padding: 13px 20px 13px 20px;
     border-radius: 8px;
     background: rgb(13, 19, 33);
     color: white;
     cursor: pointer;
+    text-decoration: none;
 }
 
 /* Main */
@@ -212,7 +214,7 @@ nav ul{
 /* Footer */
 
 .footercontents{
-    width: 1440px;
+    width: 1433px;
     height: 100px;
     padding: 32px 150px 32px 150px;
     margin-top: 100px;
@@ -232,4 +234,7 @@ nav ul{
 .footercontents ul{
     display: flex;
     
+}
+.footercontents h4{
+    padding: 40px;
 }
