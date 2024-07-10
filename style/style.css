@@ -195,12 +195,12 @@ nav ul{
     color: rgb(231, 216, 216);
 }
 .inputtype1{
-    padding: 13px 80px 13px 80px;
-    margin-top: 30px;
+    width: 40%;
+    padding: 15px;
+    margin-top: 20px;
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 8px;
-
     background: rgb(255, 255, 255);
 }
 .inputtype2{
